@@ -1,9 +1,7 @@
 
-# BONK TUI
+# BUNZ
 
-BONK!! is a TUI tool that aids management of bun packages, for now it's still in very early development stages. All it does for now is remove the need to write `bun add` or `bun install`.
-
-![alt text](./ascii-text-art.png) 
+BUNZ!! is a TUI tool that aids management of bun packages, for now it's still in very early development stages. All it does for now is remove the need to write `bun add` or `bun install`.
 
 ## Screenshots
 
