@@ -3,9 +3,6 @@
 
 BUNZ!! is a TUI tool that aids management of bun packages, for now it's still in very early development stages. All it does for now is remove the need to write `bun add` or `bun install`.
 
-## Screenshots
-
-![alt text](./screen.png) 
 ## Roadmap
 
 - display output of command
